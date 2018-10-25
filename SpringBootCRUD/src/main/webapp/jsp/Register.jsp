@@ -13,7 +13,7 @@ Name:<input type="text" name="name"><br>
 City:<input type="text" name="city"><br>
 Username:<input type="text" name="uname"><br>
 Password:<input type="text" name="pass"><br>
-<input type="submit" value="REGISTER">
+<input width="20%" type="submit" value="REGISTER">
 
 </form>
 
